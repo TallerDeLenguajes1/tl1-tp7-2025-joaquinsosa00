@@ -1,21 +1,43 @@
-namespace EspacioCalculadora;
+namespace EspacioPersonal;
 
-public class Calculadora
+public class Personal
 {
-    private double resultado;
+    private string nombre;
+    private string apellido;
+    private DateTime fechaNac;
+    private char estCivil;
+    private DateTime fechaIng;
+    private double sueldo;
+
+    public enum cargo
+    {
+        Auxiliar,
+        Administrativo,
+        Ingeniero,
+        Esoecialista,
+        Investigador
+
+    }
+
+
 
     public double Resultado { get => resultado; }
  
-    public void Sumar(double termino)
+    public void CargarDatos(double termino)
     {
         resultado = resultado + termino;
 
     }
-    public void Restar(double termino)
-    {
-        resultado = resultado - termino;
 
+
+    public void antiguedad(DateTime fechaIng)
+    {
+
+        DateTime hoy = DateTime.Now;
+        int años = hoy.Year - fechaIng.Year;
     }
+
+    
     public void Multiplicar(double termino)
     {
         resultado = resultado * termino;

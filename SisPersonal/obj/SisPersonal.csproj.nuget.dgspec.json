@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joaqu\\OneDrive\\Desktop\\Taller 1 tp7\\tl1-tp7-2025-joaquinsosa00\\Calculadora\\Calculadora.csproj": {}
+    "C:\\Users\\joaqu\\OneDrive\\Desktop\\Taller 1 tp7\\tl1-tp7-2025-joaquinsosa00\\SisPersonal\\SisPersonal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joaqu\\OneDrive\\Desktop\\Taller 1 tp7\\tl1-tp7-2025-joaquinsosa00\\Calculadora\\Calculadora.csproj": {
+    "C:\\Users\\joaqu\\OneDrive\\Desktop\\Taller 1 tp7\\tl1-tp7-2025-joaquinsosa00\\SisPersonal\\SisPersonal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joaqu\\OneDrive\\Desktop\\Taller 1 tp7\\tl1-tp7-2025-joaquinsosa00\\Calculadora\\Calculadora.csproj",
-        "projectName": "Calculadora",
-        "projectPath": "C:\\Users\\joaqu\\OneDrive\\Desktop\\Taller 1 tp7\\tl1-tp7-2025-joaquinsosa00\\Calculadora\\Calculadora.csproj",
+        "projectUniqueName": "C:\\Users\\joaqu\\OneDrive\\Desktop\\Taller 1 tp7\\tl1-tp7-2025-joaquinsosa00\\SisPersonal\\SisPersonal.csproj",
+        "projectName": "SisPersonal",
+        "projectPath": "C:\\Users\\joaqu\\OneDrive\\Desktop\\Taller 1 tp7\\tl1-tp7-2025-joaquinsosa00\\SisPersonal\\SisPersonal.csproj",
         "packagesPath": "C:\\Users\\joaqu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joaqu\\OneDrive\\Desktop\\Taller 1 tp7\\tl1-tp7-2025-joaquinsosa00\\Calculadora\\obj\\",
+        "outputPath": "C:\\Users\\joaqu\\OneDrive\\Desktop\\Taller 1 tp7\\tl1-tp7-2025-joaquinsosa00\\SisPersonal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\joaqu\\AppData\\Roaming\\NuGet\\NuGet.Config"

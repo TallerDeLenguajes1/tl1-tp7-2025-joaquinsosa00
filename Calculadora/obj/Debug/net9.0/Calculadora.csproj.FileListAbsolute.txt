@@ -12,3 +12,4 @@ C:\Users\joaqu\OneDrive\Desktop\Taller 1 tp7\tl1-tp7-2025-joaquinsosa00\Calculad
 C:\Users\joaqu\OneDrive\Desktop\Taller 1 tp7\tl1-tp7-2025-joaquinsosa00\Calculadora\obj\Debug\net9.0\Calculadora.pdb
 C:\Users\joaqu\OneDrive\Desktop\Taller 1 tp7\tl1-tp7-2025-joaquinsosa00\Calculadora\obj\Debug\net9.0\Calculadora.genruntimeconfig.cache
 C:\Users\joaqu\OneDrive\Desktop\Taller 1 tp7\tl1-tp7-2025-joaquinsosa00\Calculadora\obj\Debug\net9.0\ref\Calculadora.dll
+C:\Users\joaqu\OneDrive\Desktop\Taller 1 tp7\tl1-tp7-2025-joaquinsosa00\Calculadora\obj\Debug\net9.0\Calculadora.sourcelink.json
