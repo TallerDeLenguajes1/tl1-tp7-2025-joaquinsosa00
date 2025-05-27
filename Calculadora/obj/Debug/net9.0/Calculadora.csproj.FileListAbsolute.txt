@@ -1,0 +1,14 @@
+C:\Users\joaqu\OneDrive\Desktop\Taller 1 tp7\tl1-tp7-2025-joaquinsosa00\Calculadora\bin\Debug\net9.0\Calculadora.exe
+C:\Users\joaqu\OneDrive\Desktop\Taller 1 tp7\tl1-tp7-2025-joaquinsosa00\Calculadora\bin\Debug\net9.0\Calculadora.deps.json
+C:\Users\joaqu\OneDrive\Desktop\Taller 1 tp7\tl1-tp7-2025-joaquinsosa00\Calculadora\bin\Debug\net9.0\Calculadora.runtimeconfig.json
+C:\Users\joaqu\OneDrive\Desktop\Taller 1 tp7\tl1-tp7-2025-joaquinsosa00\Calculadora\bin\Debug\net9.0\Calculadora.dll
+C:\Users\joaqu\OneDrive\Desktop\Taller 1 tp7\tl1-tp7-2025-joaquinsosa00\Calculadora\bin\Debug\net9.0\Calculadora.pdb
+C:\Users\joaqu\OneDrive\Desktop\Taller 1 tp7\tl1-tp7-2025-joaquinsosa00\Calculadora\obj\Debug\net9.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaqu\OneDrive\Desktop\Taller 1 tp7\tl1-tp7-2025-joaquinsosa00\Calculadora\obj\Debug\net9.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\joaqu\OneDrive\Desktop\Taller 1 tp7\tl1-tp7-2025-joaquinsosa00\Calculadora\obj\Debug\net9.0\Calculadora.AssemblyInfo.cs
+C:\Users\joaqu\OneDrive\Desktop\Taller 1 tp7\tl1-tp7-2025-joaquinsosa00\Calculadora\obj\Debug\net9.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\joaqu\OneDrive\Desktop\Taller 1 tp7\tl1-tp7-2025-joaquinsosa00\Calculadora\obj\Debug\net9.0\Calculadora.dll
+C:\Users\joaqu\OneDrive\Desktop\Taller 1 tp7\tl1-tp7-2025-joaquinsosa00\Calculadora\obj\Debug\net9.0\refint\Calculadora.dll
+C:\Users\joaqu\OneDrive\Desktop\Taller 1 tp7\tl1-tp7-2025-joaquinsosa00\Calculadora\obj\Debug\net9.0\Calculadora.pdb
+C:\Users\joaqu\OneDrive\Desktop\Taller 1 tp7\tl1-tp7-2025-joaquinsosa00\Calculadora\obj\Debug\net9.0\Calculadora.genruntimeconfig.cache
+C:\Users\joaqu\OneDrive\Desktop\Taller 1 tp7\tl1-tp7-2025-joaquinsosa00\Calculadora\obj\Debug\net9.0\ref\Calculadora.dll
